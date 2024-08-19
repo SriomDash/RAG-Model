@@ -8,7 +8,7 @@ from langchain.chains import RetrievalQA
 from langchain_community.vectorstores import FAISS
 
 # Set the environment variable for HuggingFace API key
-os.environ["HUGGINGFACEHUB_API_TOKEN"] = "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"
+os.environ["HUGGINGFACEHUB_API_TOKEN"] = "INSERT_YOUR_TOKEN"
 
 chain = None  # Define chain as a global variable
 
