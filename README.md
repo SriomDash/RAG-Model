@@ -17,14 +17,14 @@ Whether you're looking to summarize text, clarify specific sections, or extract 
 - **Text Summarization:** Generate concise summaries of lengthy sections.
 - **Targeted Explanations:** Obtain clear explanations of complex or specific parts of the document.
 
-## Getting Started
 
-You can access ChatPDF on [Hugging Face Spaces](https://huggingface.co/spaces/AeroArtz/ChatPDF). Simply upload your document and start querying.
+
 
 ## Connect with Me
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/sriom-dash-a390a4174/) for more projects and updates.
 
 ---
+
 
 
